@@ -8,9 +8,8 @@ const App = () => {
   return (
    <Fragment>
        <nav className="navbar navbar-dark bg-dark border-bottom border-black">
-           <a href="/" className="navbar-brand">
-               beatifull movie app
-
+           <a href="/" className="navbar-brand mx-auto">
+               Beatifull Movie & Series App Searcher
            </a>
            
        </nav>
